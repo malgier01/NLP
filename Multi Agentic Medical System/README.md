@@ -17,7 +17,7 @@ grading from scratch.
 
 Notebook: [`praca_inzynierska.ipynb`](praca_inzynierska.ipynb)
 
-![MAS schema](agentic_schema_drawio.io)
+![MAS schema](agentic_schema_drawio.png)
 
 ## The grading system
 
@@ -123,7 +123,7 @@ behind the step taken in the scenario is ...") and the model continues it.
 
 Scores are the mean of binary grades per axis. Missing grades were dropped.
 
-![Model metrics heatmap](ModelMetricsHeatmap.png)
+![Model metrics heatmap](Model_Metrics_Heatmap.png)
 
 **What the grader showed about the agents:**
 - **RAG did not improve the explanations and often made them worse.** BioMistral's
