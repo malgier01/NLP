@@ -177,5 +177,3 @@ and Google Colab.
 
 HealthBench (Arora et al., 2025); BioMistral (Labrak et al., 2024); Meditron-70B
 (Chen et al., 2023); ToolUniverse (Gao et al., 2025). The full bibliography is in the thesis.
-Parts of the post-thesis code were written with the help of an AI coding assistant and
-reviewed by me.
