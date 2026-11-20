@@ -17,7 +17,7 @@ grading from scratch.
 
 Notebook: [`praca_inzynierska.ipynb`](praca_inzynierska.ipynb)
 
-![MAS schema](images/agents_workflow.png)
+![MAS schema](agentic_schema_drawio.io)
 
 ## The grading system
 
@@ -123,7 +123,7 @@ behind the step taken in the scenario is ...") and the model continues it.
 
 Scores are the mean of binary grades per axis. Missing grades were dropped.
 
-![Model metrics heatmap](images/heatmap.png)
+![Model metrics heatmap](ModelMetricsHeatmap.png)
 
 **What the grader showed about the agents:**
 - **RAG did not improve the explanations and often made them worse.** BioMistral's
@@ -208,5 +208,3 @@ sentence-transformers, Hugging Face Transformers, bitsandbytes, Biopython
 
 HealthBench (Arora et al., 2025); BioMistral (Labrak et al., 2024); Meditron-70B
 (Chen et al., 2023); ToolUniverse (Gao et al., 2025). The full bibliography is in the thesis.
-Parts of the post-thesis code were written with the help of an AI coding assistant and
-reviewed by me.
